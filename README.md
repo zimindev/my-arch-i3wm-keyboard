@@ -32,4 +32,3 @@ setxkbmap -layout us  # English
 ```
 
 > ℹ️ **Note:** For permanent setup, use Xorg configuration or localectl methods.
-```
